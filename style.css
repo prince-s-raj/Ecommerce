@@ -367,14 +367,14 @@ button.white{
     align-items: flex-start;
     justify-content: center;
 
-    background-image: url(images/banner/b17.jpg);
+    background-image: url(images/banner/bnr1.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     padding: 30px;
   }
 #sm-banner .banner-box-2{
-    background-image: url(images/banner/b10.jpg);
+    background-image: url(images/banner/bnr2.jpg);
 }
   
 #sm-banner h4{
@@ -413,7 +413,7 @@ button.white{
     align-items: flex-start;
     justify-content: center;
 
-    background-image: url(images/banner/b7.jpg);
+    background-image: url(images/banner/bnr3.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -430,10 +430,13 @@ button.white{
 #banner-3 h3{
     font-size: 15px;
     font-weight: 800;
-    color: #ec544e;
+    color: #ee3b3b;
 }
 #banner-3 .box-2{
-    background-image: url(images/banner/b18.jpg);
+    background-image: url(images/banner/bnr4.jpg);
+}
+#banner-3 .box-3{
+    background-image: url(images/banner/bnr5.jpg);
 }
 /* 
 ?---------------newsletter
